@@ -4,7 +4,7 @@
 Experiments with how we can tweak the generations of a dialogue-tuned LLM using other, more specific models. 
 
 
-The following is an experiment using an emotion recognition model to make a 7B LLAMA-2 Chat generate greetings that represent a certain emotion
+The following is an experiment using an emotion recognition model to make a 7B LLAMA-2 Chat generate greetings that represent a certain emotion. This is a very simple experiment and thus the model is quite small and the generation quality is not that high. 
 
 
 | emotion   |   magnitute | sentence                                       |
